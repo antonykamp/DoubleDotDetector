@@ -1,0 +1,6 @@
+[submodule "CropperDot"]
+	path = CropperDot
+	url = git@github.com:antonykamp/CropperDot.git
+[submodule "Viola-Jones"]
+	path = Viola-Jones
+	url = git@github.com:antonykamp/Viola-Jones.git

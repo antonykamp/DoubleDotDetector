@@ -4,3 +4,6 @@
 [submodule "Viola-Jones"]
 	path = Viola-Jones
 	url = git@github.com:antonykamp/Viola-Jones.git
+[submodule "ViolaJones"]
+	path = ViolaJones
+	url = git@github.com:antonykamp/Viola-Jones.git
